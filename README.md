@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **software, web development, containers, linux**
 
-- 🤝🏻 Connect: <a align="bottom" href="https://www.linkedin.com/in/matija-%C4%8Dvrk-1388b3101/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="docker" width="20" height="20"/></a>
+- 🤝🏻 Connect: <a align="bottom" href="https://www.linkedin.com/in/matijacvrk" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="docker" width="20" height="20"/></a>
 
 <h3>Tools</h3>
 
