@@ -2,9 +2,12 @@
 
 - 💼 Interested in doing business together? - Get in [contact](https://travaulta.github.io) 👈
 
-- 👨‍💻 Are you a tech lead or architect? - See [portfolio](https://mydevfolio-340541231084.northamerica-south1.run.app/) 👈
+- 👨‍💻 Are you a tech lead or architect? - See [portfolio](https://mydevfolio-340541231084.northamerica-south1.run.app/) 👈 or visit:
+<a align="bottom" href="https://gitlab.com/users/traVaulta/projects" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="20" height="20"/></a>
+<a align="bottom" href="https://bitbucket.org/cvrkmatija/workspace/projects/PLAYG" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="20" height="20"/></a>👈
+<!--<a align="bottom" href="https://leetcode.com/u/traVaulta" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original-wordmark.svg" alt="leetcode" width="20" height="20"/></a>-->
 
-- 💬 Ask me about **software, web development, containers, linux**
+- 💬 Ask me about **software, web development, containers, linux**... Can share my tiny book list: [Goodreads](https://www.goodreads.com/user/show/88916847-matija-vrk) 📚
 
 - 🤝🏻 Connect: <a align="bottom" href="https://www.linkedin.com/in/matijacvrk" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="docker" width="20" height="20"/></a>
 
@@ -27,3 +30,5 @@
 <a href="https://podman.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original-wordmark.svg" alt="podman" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+<p>#carpediem</p>
